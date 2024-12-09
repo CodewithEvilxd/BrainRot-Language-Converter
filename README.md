@@ -30,7 +30,7 @@ Transform your text into trendy Gen Z language with just a click. Our converter 
 </p>
    
 <h4>
-    <a href="https://brainrot-language-converter.vercel.app/">View Demo</a>
+    <a href="">View Demo</a>
   <span> · </span>
     <a href="https://github.com/CodewithEvilxd/BrainRot-Language-Converter">Documentation</a>
   <span> · </span>
